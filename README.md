@@ -2,6 +2,8 @@
 ![Language](https://img.shields.io/badge/language-C-blue)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Status](https://img.shields.io/badge/status-active-success)  
+---
+## Overview
 
 This is a simple **UNIX-like shell** implemented in C. 
 The shell supports running Linux commands, I/O redirection, piping, command history, and signal handling.  
